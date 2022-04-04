@@ -5,4 +5,4 @@ I'm Lucas Bustamante, from Buenos Aires, Argentina. I’m a student in computer 
 -In the university I have learned:
   Java| Python | (More incoming)
 -In Udemy i have learning:
-  Javascript | html5 | .css3 | cobol }
+  Javascript | html 5 | .css3 
