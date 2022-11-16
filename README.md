@@ -36,9 +36,7 @@ I'm Lucas Bustamante, from Buenos Aires, Argentina. I’m a student in computer 
         src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg"
         alt="mongodb" width="40" height="40" /></a> <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg"
-        alt="nodejs" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original.svg"
-        alt="express" width="40" height="40" /> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        alt="nodejs" width="40" height="40" /> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-line.svg"
         alt="nextjs" width="40" height="40" /> </a> <a href="https://deno.land/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/denojs/denojs-original.svg"
