@@ -2,6 +2,7 @@ Hi there 👋
 I'm Lucas Bustamante, from Buenos Aires, Argentina. I’m a student in computer systems, . I love learning new things and i love programming.
 
 
+
 <h3 align="left">Learning:</h3>
 <p align="left">
 
@@ -22,9 +23,7 @@ I'm Lucas Bustamante, from Buenos Aires, Argentina. I’m a student in computer 
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
         alt="javascript" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react" width="40" height="40" /> </a><a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/svelte/svelte-original.svg"
-        alt="svelte" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+        alt="react" width="40" height="40" /> </a><a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
 </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
